@@ -1,0 +1,1 @@
+df.plot(x = "Year", y=columns)
